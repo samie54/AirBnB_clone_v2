@@ -6,8 +6,8 @@ Date: 14/09/2023
 
 Authors:
 
-Samuel Atiemo
-Mahmoud Khairi
+1. Samuel Atiemo
+2. Mahmoud Khairi
 
 Project Tasks:
 
