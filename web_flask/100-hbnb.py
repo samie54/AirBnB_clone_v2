@@ -1,6 +1,8 @@
 #!/usr/bin/python3
-'''A simple Flask web application.
-'''
+"""
+Flask web application
+@authors: Samuel Atiemo & Mahmoud Khairi.
+"""
 from flask import Flask, render_template, Markup
 
 from models import storage
