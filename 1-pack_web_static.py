@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-"""Generates a .tgz archive from the contents of the web_static folder."""
+"""A .tgz archive from contents of web_static generation."""
 from fabric.api import local
 import time
 
 
 def do_pack():
-    """Generate an tgz archive from web_static folder"""
+    """An tgz archive Generation"""
     try:
         local("mkdir -p versions")
         local("tar -cvzf versions/web_static_{}.tgz web_static/".
